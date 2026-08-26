@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "mini-todo-app",
+      "title": "Mini To-Do App with a Python API",
+      "description": "Build a small API and browser-based task manager using Python and simple web requests.",
+      "path": "assignments/mini-todo-app",
+      "dueDate": "2026-09-02",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
